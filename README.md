@@ -18,4 +18,4 @@ ORDER BY monthh, weekofmonth
 
 ```
 
-<img src="man/figures/README-unnamed-chunk-2-1.png" width="100%" />
+<img src="SQL/Salida query.png" width="100%" />
