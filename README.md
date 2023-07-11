@@ -40,7 +40,7 @@ Por último las variables que mas influyen en el estudio de fraude son la clasif
 
 # Recomendaciones para reducir fraudes
 
-Para reducir las pérdidas por fraude en las reclamaciones de siniestro, se recomienda identificar patrones sospechosos y comportamientos inusuales que puedan indicar posibles casos de fraude. Dado que la mayoría de los incidentes fraudulentos ocurrieron en áreas urbanas, se aconseja analizar detalladamente los reclamos provenientes de esa área. Del mismo modo, se debe prestar especial atención a los reclamos relacioandos con vehículos tipo Sedan. Además, es importante tener en cuenta que la falta de reportes policiales está muy asociado con un alto porcentaje de fraudes, por lo tanto se recomienda tener un informe policial o alguna constancia que demuestre que el incidente si ha sido reportado. 
+Para reducir las pérdidas por fraude en las reclamaciones de siniestro, se recomienda identificar patrones sospechosos y comportamientos inusuales que puedan indicar posibles casos de fraude. Dado que la mayoría de los incidentes fraudulentos ocurrieron en áreas urbanas, se aconseja analizar detalladamente los reclamos provenientes de esa área. Del mismo modo, se debe prestar especial atención a los reclamos relacionados con vehículos tipo Sedan. Además, es importante tener en cuenta que la falta de reportes policiales está muy asociado con un alto porcentaje de fraudes, por lo tanto se recomienda tener un informe policial o alguna constancia que demuestre que el incidente si ha sido reportado. 
 Como el seguro es engañado por personas independientes, se necesita fortalecer el proceso de verificación y validación de los reclamantes, también validar la información del accidente con la policía y de testigos. 
 
 
@@ -66,13 +66,15 @@ Al ajustar este modelo, se obtienen los indicadores de correcta clasificación, 
 ## Acciones a tomar para reducir fraudes
 
 
-En conclusión, los insigths obtenidos en relevan patrones y factores que pueden contribuir a la reducción de fraudes en las reclamaciones de siniestro. Para mitigar este problema se recomienda implementar las siguientes acciones:
+En conclusión, los insights obtenidos relevan patrones y factores que pueden contribuir a la reducción de fraudes en las reclamaciones de siniestro. Para mitigar este problema se recomienda implementar las siguientes acciones:
 
-1. Reforzar la detección temprana de los incidentes de fraude. Es muy importante establecer algunos mecanismos de control y vigilancia en los accidentes que ocurren en las áreas urbanas, ya que se identifica una mayor concentracion de fraudes. Para ello se podría incluir el uso de tecnologías avanzadas como sistemas de monitoreo y algoritmos automatizados que identifiquen esos comportamientos fraudulentos.
+1. Reforzar la detección temprana de los incidentes de fraude. Es muy importante establecer algunos mecanismos de control y vigilancia en los accidentes que ocurren en las áreas urbanas, en donde el tipo de vehículo es Sedan y además no se presenta una denuncia policial, ya que se identifica una mayor concentracion de fraudes en esos casos. Para ello se podría incluir el uso de tecnologías avanzadas como sistemas de monitoreo y algoritmos automatizados que identifiquen esos comportamientos fraudulentos, especialmente cuando se presenten las condiciones mencionadas anteriormente. 
 
-2. Fomentar la denuncia policial y concientización. Como la mayoría de los incidentes fraudulentos no se denuncian a la policía ni se cuenta con testigos, es esencial promover una mayor conciencia sobre la importancia de informar los accidentes a las autoridades. La aseguradora podría colaborar con organismos policiales y realizar campañas para destacar la importancia de la denuncia y la cooperación en la investigación de reclamaciones. 
+2. Fomentar la denuncia policial y concientización. Como la mayoría de los incidentes fraudulentos no se denuncian a la policía ni se cuenta con testigos, es esencial promover una mayor conciencia sobre la importancia de informar los accidentes a las autoridades. La aseguradora podría colaborar con organismos policiales y realizar campañas para destacar la importancia de la denuncia y la cooperación en la investigación de reclamaciones. También se podría realizar un estudio para ver la viabilidad de exigir una denuncia policial en las reclamaciones que sobrepasen cierto monto. Con esta medida se puede llevar a cabo una revisión más exhaustiva, incluyendo la verificación de la información proporcionada en la denuncia, lo que puede ayudar a detectar posibles irregularidades. 
 
-3. Fortalecer los controles internos. Establecer procedimientos claros para la gestión de las reclamaciones, incluyendo la verificación de la documentación requerida. También es importantes capacitar al personal en la detección de fraudes y en la identificación de signos de reclamaciones sospechosas.
+3. Fortalecer los controles internos. Establecer procedimientos claros para la gestión de las reclamaciones, incluyendo la verificación de la documentación requerida. También es importante capacitar al personal encargado de la gestión de reclamaciones en la detección de fraudes y en la identificación de signos de reclamaciones sospechosas. Adicionalmente, al combinar los algoritmos de detección de fraudes con la intervención humana en la verificación de los casos identificados, se puede fortalecer la efectividad de los controles internos y reducir la incidencia de fraudes en las reclamaciones. 
+
+
 
 
 
